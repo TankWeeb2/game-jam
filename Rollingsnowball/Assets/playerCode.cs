@@ -3,6 +3,7 @@ using UnityEngine;
 public class playerCode : MonoBehaviour
 {
     int speed = 4; //the speed of the snowball
+    [SerializeField]
     KeyCode down = KeyCode.S;
     [SerializeField]
     KeyCode left = KeyCode.A;
@@ -20,29 +21,24 @@ public class playerCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-    }
-    private void FixedUpdate()
-    {
-        rigidbody.linearVelocityX = 0;
-        rigidbody.linearVelocityY = 0;
-        //
+        print(rigidbody.linearVelocityX + rigidbody.linearVelocityY + "yum.");
         if (Input.GetKey(down))
         {
-            rigidbody.linearVelocityY = -1;
+            rigidbody.linearVelocityY = -10;
         }//lovely code made by theo by the way
         if (Input.GetKey(up))
         {
-            rigidbody.linearVelocityY = 1;
+            rigidbody.linearVelocityY = 10;
         }//lovely code made by theo by the way
         if (Input.GetKey(left))
         {
-            rigidbody.linearVelocityX = 1;
+            rigidbody.linearVelocityX = 10;
         }
         if (Input.GetKey(right))
         {
-            rigidbody.linearVelocityX = -1;
+            rigidbody.linearVelocityX = -10;
         }
 
     }
+
 }
