@@ -1066,6 +1066,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tree: {fileID: 1987044519001443503, guid: 27bc6601f32a12b4f91842b64d4b095e, type: 3}
+  player: {fileID: 1984317339}
+  targetRigidbody: {fileID: 1984317341}
 --- !u!1 &1773523162
 GameObject:
   m_ObjectHideFlags: 0

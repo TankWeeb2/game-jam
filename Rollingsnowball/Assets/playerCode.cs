@@ -25,8 +25,6 @@ public class playerCode : MonoBehaviour
         rigidbody.linearVelocityY = -6;
         rigidbody.linearVelocityX = 0;
 
-
-        print(rigidbody.linearVelocityX + rigidbody.linearVelocityY + "yum.");
         if (Input.GetKey(down))
         {
             rigidbody.linearVelocityY += -3;
