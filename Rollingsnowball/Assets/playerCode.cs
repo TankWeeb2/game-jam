@@ -15,7 +15,7 @@ public class playerCode : MonoBehaviour
     Rigidbody2D rigidbody;
     void Start()
     {
-        
+        rigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -32,11 +32,11 @@ public class playerCode : MonoBehaviour
         }//lovely code made by theo by the way
         if (Input.GetKey(left))
         {
-            rigidbody.linearVelocityX = 10;
+            rigidbody.linearVelocityX = -10;
         }
         if (Input.GetKey(right))
         {
-            rigidbody.linearVelocityX = -10;
+            rigidbody.linearVelocityX = 10;
         }
 
     }
