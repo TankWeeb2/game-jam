@@ -11,6 +11,7 @@ public class playerCode : MonoBehaviour
     [SerializeField]
     KeyCode up = KeyCode.W;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    Rigidbody2D rigidbody;
     void Start()
     {
         
@@ -19,21 +20,29 @@ public class playerCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
+    }
+    private void FixedUpdate()
+    {
+        rigidbody.linearVelocityX = 0;
+        rigidbody.linearVelocityY = 0;
+        //
         if (Input.GetKey(down))
         {
-            transform.position += new Vector3(0, -1, 0) * speed * Time.deltaTime;
-        }
+            rigidbody.linearVelocityY = -1;
+        }//lovely code made by theo by the way
         if (Input.GetKey(up))
         {
-            transform.position += new Vector3(0, 1, 0) * speed * Time.deltaTime;//rerelser
-        }
+            rigidbody.linearVelocityY = 1;
+        }//lovely code made by theo by the way
         if (Input.GetKey(left))
         {
-            transform.position += new Vector3(-1, 0, 0) * speed * Time.deltaTime;
+            rigidbody.linearVelocityX = 1;
         }
         if (Input.GetKey(right))
         {
-            transform.position += new Vector3(1, 0, 0) * speed * Time.deltaTime;
-        }//rörelse kods  
+            rigidbody.linearVelocityX = -1;
+        }
+
     }
 }
