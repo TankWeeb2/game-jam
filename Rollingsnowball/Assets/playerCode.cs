@@ -21,22 +21,27 @@ public class playerCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //resets velocity
+        rigidbody.linearVelocityY = -6;
+        rigidbody.linearVelocityX = 0;
+
+
         print(rigidbody.linearVelocityX + rigidbody.linearVelocityY + "yum.");
         if (Input.GetKey(down))
         {
-            rigidbody.linearVelocityY = -10;
+            rigidbody.linearVelocityY += -5;
         }//lovely code made by theo by the way
         if (Input.GetKey(up))
         {
-            rigidbody.linearVelocityY = 10;
+            rigidbody.linearVelocityY += 5;
         }//lovely code made by theo by the way
         if (Input.GetKey(left))
         {
-            rigidbody.linearVelocityX = -10;
+            rigidbody.linearVelocityX += -5;
         }
         if (Input.GetKey(right))
         {
-            rigidbody.linearVelocityX = 10;
+            rigidbody.linearVelocityX += 5;
         }
 
     }
