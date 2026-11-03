@@ -25,15 +25,13 @@ public class playerCode : MonoBehaviour
         rigidbody.linearVelocityY = -6;
         rigidbody.linearVelocityX = 0;
 
-
-        print(rigidbody.linearVelocityX + rigidbody.linearVelocityY + "yum.");
         if (Input.GetKey(down))
         {
-            rigidbody.linearVelocityY += -5;
+            rigidbody.linearVelocityY += -3;
         }//lovely code made by theo by the way
         if (Input.GetKey(up))
         {
-            rigidbody.linearVelocityY += 5;
+            rigidbody.linearVelocityY += 3;
         }//lovely code made by theo by the way
         if (Input.GetKey(left))
         {
@@ -43,7 +41,7 @@ public class playerCode : MonoBehaviour
         {
             rigidbody.linearVelocityX += 5;
         }
-
+        //nice
     }
 
 }
