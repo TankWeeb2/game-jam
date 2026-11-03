@@ -6,6 +6,8 @@ public class object_spawning_script : MonoBehaviour
 {
     new public GameObject tree;
     double timer = 0;
+    double yspeed = 1;
+    [SerializeField] private Rigidbody targetRigidbody;
     void Start()
     {
         
@@ -14,9 +16,8 @@ public class object_spawning_script : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print("yes it runs theo, why wouldnt it?");
         timer += Time.deltaTime;
-        if (timer > 0.5)
+        if (timer > 0.5 * yspeed)
         {
             timer = 0;
             print("spawn");
