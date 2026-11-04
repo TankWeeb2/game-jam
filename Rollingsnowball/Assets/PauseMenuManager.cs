@@ -44,6 +44,7 @@ public class PauseMenuManager : MonoBehaviour
     public void QuitGame()
     {
         Debug.Log("Quitting game...");
-        Application.Quit();
+        Application.Quit();//it is suposed to show the image when the quit game button is pressed but how can i do that?
+        
     }
 }
