@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class playerCode : MonoBehaviour
 {
+    int health = 4;
+    [SerializeField]
     int speed = 4; //the speed of the snowball
     [SerializeField]
     KeyCode down = KeyCode.S;
@@ -43,5 +45,17 @@ public class playerCode : MonoBehaviour
         }
         //nice
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        print("something");
 
+        if (collision.transform.name == "death")
+        {
+            print("ow");
+            health += -1;
+            print("health: " + health);
+
+        }
+
+    }
 }
