@@ -3,10 +3,13 @@ using UnityEngine;
 
 public class we_the_people : MonoBehaviour
 {
+    public ParticleSystem particleSystemRef;
     Rigidbody2D rigidbody;
     float Timer; 
     void Start()
     {
+        particleSystemRef.Stop();
+
         rigidbody = GetComponent<Rigidbody2D>();
     }
 
@@ -26,4 +29,14 @@ public class we_the_people : MonoBehaviour
             rigidbody.linearVelocityY = -4.5f;
         }
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.collider.CompareTag("snowball"))
+        {
+            print("you hit a texas");
+            particleSystemRef.Play();
+        }
+    }
+
 }
