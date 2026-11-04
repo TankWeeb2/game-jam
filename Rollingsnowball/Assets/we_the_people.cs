@@ -38,10 +38,11 @@ public class we_the_people : MonoBehaviour
         {
             print("you hit a texas");
             particleSystemRef.Play();
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < 5; i++)
             {
                 Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
             }
+            Destroy(gameObject);
 
         }
     }
