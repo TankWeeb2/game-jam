@@ -26,7 +26,7 @@ public class object_spawning_script : MonoBehaviour
         playerY = player.transform.position.y;
 
         ySpeed = (oldPlayerY - playerY) * 6;
-        print(ySpeed);
+        //ySpeed is the best variable ever
 
         //ySpeed = 0 - targetRigidbody.linearVelocity.y / 6;
 
