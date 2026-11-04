@@ -11,6 +11,6 @@ public class we_the_people : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        rigidbody.linearVelocityX = Random.Range(-6, 6);
+        rigidbody.linearVelocityX = Random.Range(-9, 9);
     }
 }
