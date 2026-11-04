@@ -822,7 +822,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1340514488
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1772,6 +1772,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   original: {fileID: 541427070}
   newSprite: {fileID: -2986674689746716564, guid: 98031622dd1c7ca44be0cffb9c106dff, type: 3}
+  player: {fileID: 1984317339}
+  cube: {fileID: 2177116329211454275, guid: 6841a7c90b26da045b87923ca0246b0f, type: 3}
 --- !u!1 &2032642896
 GameObject:
   m_ObjectHideFlags: 0
