@@ -6,6 +6,8 @@ public class object_spawning_script : MonoBehaviour
 {
     new public GameObject tree;
     new public GameObject player;
+    new public GameObject sadtree;
+    new public GameObject person;
     double timer = 0;
     float ySpeed = 1;
     float playerY;
@@ -36,6 +38,7 @@ public class object_spawning_script : MonoBehaviour
         {
             timer = 0;
             Instantiate(tree, new Vector3(Random.Range(-10, 10), transform.position.y, transform.position.z), tree.transform.rotation);
+            Instantiate(person, new Vector3(Random.Range(-6, 6), transform.position.y + 2, transform.position.z), tree.transform.rotation);
         }
 
         oldPlayerY = player.transform.position.y;
