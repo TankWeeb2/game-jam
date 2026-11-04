@@ -1,8 +1,10 @@
+using System.Threading;
 using UnityEngine;
 
 public class we_the_people : MonoBehaviour
 {
     Rigidbody2D rigidbody;
+    float Timer; 
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -11,6 +13,17 @@ public class we_the_people : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        rigidbody.linearVelocityX = Random.Range(-9, 9);
+        
+
+    }
+    private void Update()
+    {
+        Timer += Time.deltaTime;
+        if (Timer > 0.5)
+        {
+            Timer = 0;
+            rigidbody.linearVelocityX = Random.Range(-6, 6);
+            rigidbody.linearVelocityY = -3;
+        }
     }
 }
