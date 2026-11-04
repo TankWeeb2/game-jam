@@ -15,4 +15,13 @@ public class Menu : MonoBehaviour
         Application.Quit();
     }
     //quits the game
+    public void OnCreditsButton()
+    {
+        SceneManager.LoadScene("Credits");
+    }
+
+    public void OnReturnButton()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
 }
