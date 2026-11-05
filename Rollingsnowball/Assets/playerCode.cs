@@ -3,6 +3,7 @@ using UnityEngine;
 public class playerCode : MonoBehaviour
 {
     int health = 4;
+    public int score = 0;
     [SerializeField]
     int speed = 4; //the speed of the snowball
     [SerializeField]

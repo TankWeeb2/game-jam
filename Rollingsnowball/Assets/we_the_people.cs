@@ -8,8 +8,11 @@ public class we_the_people : MonoBehaviour
     Rigidbody2D rigidbody;
     float Timer;
     new public GameObject flesh;
+    public playerCode playerCode;
     void Start()
     {
+        playerCode = FindFirstObjectByType<playerCode>();
+
         particleSystemRef.Stop();
 
         rigidbody = GetComponent<Rigidbody2D>();
@@ -36,7 +39,8 @@ public class we_the_people : MonoBehaviour
 
         if (collision.collider.CompareTag("snowball"))
         {
-            print("you hit a texas");
+            playerCode.score += 1;
+            print("you hit a texas! score: " + playerCode.score);
             particleSystemRef.Play();
             for (int i = 0; i < 5; i++)
             {
