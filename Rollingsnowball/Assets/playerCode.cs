@@ -77,4 +77,18 @@ public class playerCode : MonoBehaviour
         }
 
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.collider.CompareTag("tank"))
+        {
+            print("ow");
+            health += -1;
+            for (int i = 0; i < 7; i++)
+            {
+                Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
+            }
+            Destroy(gameObject);
+        }
+    }
 }
