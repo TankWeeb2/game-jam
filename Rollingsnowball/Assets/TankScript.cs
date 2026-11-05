@@ -16,7 +16,7 @@ public class TankScript : MonoBehaviour
     {
         if (playerCode.downhill == false)
         {
-            transform.position += new Vector3(0, 3 * Time.deltaTime, 0);
+            transform.position += new Vector3(0, 3.01f * Time.deltaTime, 0);
         }
 
     }

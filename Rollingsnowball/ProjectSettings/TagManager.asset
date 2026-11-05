@@ -6,6 +6,7 @@ TagManager:
   tags:
   - KillBox
   - snowball
+  - tank
   layers:
   - Default
   - TransparentFX
