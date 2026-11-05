@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 8d9a77506c95250478c3b23ecaf9ba66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8226756988596823353
+    second: Tank-Fire_0
+  - first:
+      213: -99076426997043140
+    second: Tank-Fire_1
+  - first:
+      213: 8798109961748434256
+    second: Tank-Fire_2
+  - first:
+      213: 8529573557317400586
+    second: Tank-Fire_3
+  - first:
+      213: -4453083807706004692
+    second: Tank-Fire_4
+  - first:
+      213: 876347112391738527
+    second: Tank-Fire_5
+  - first:
+      213: -6323353219965170051
+    second: Tank-Fire_6
+  - first:
+      213: -7026405829859720196
+    second: Tank-Fire_7
+  - first:
+      213: 8189088772624198532
+    second: Tank-Fire_8
+  - first:
+      213: 466910101549477868
+    second: Tank-Fire_9
+  - first:
+      213: -7082667184860041778
+    second: Tank-Fire_10
+  - first:
+      213: -1333083998768231356
+    second: Tank-Fire_11
+  - first:
+      213: 6016234132665117993
+    second: Tank-Fire_12
+  - first:
+      213: -7709225804865988533
+    second: Tank-Fire_13
+  - first:
+      213: 3679468735646029035
+    second: Tank-Fire_14
+  - first:
+      213: -6228880136622122984
+    second: Tank-Fire_15
+  - first:
+      213: -8027276143215892238
+    second: Tank-Fire_16
+  - first:
+      213: -4402924238307279634
+    second: Tank-Fire_17
+  - first:
+      213: -5591542235440053736
+    second: Tank-Fire_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tank-Fire_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 113
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca59392b10b4dd80800000000000000
+      internalID: -8226756988596823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 113
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f93bb38200aef0800000000000000
+      internalID: -99076426997043140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 192
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d47d4556a291a70800000000000000
+      internalID: 8798109961748434256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f77175f12f5670800000000000000
+      internalID: 8529573557317400586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 194
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23c3aeced77332c0800000000000000
+      internalID: -4453083807706004692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f948c0e3e09692c00800000000000000
+      internalID: 876347112391738527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 132
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e47aebfbfee38a0800000000000000
+      internalID: -6323353219965170051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 132
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34a7f00213d7e90800000000000000
+      internalID: -7026405829859720196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 134
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba76ed9dc75a170800000000000000
+      internalID: 8189088772624198532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 134
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefe5e8734cca7600800000000000000
+      internalID: 466910101549477868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 113
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde91098bf45bd90800000000000000
+      internalID: -7082667184860041778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 113
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c89a58a2fef7de0800000000000000
+      internalID: -1333083998768231356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 75
+        width: 113
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da51b7115fd7350800000000000000
+      internalID: 6016234132665117993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 80
+        width: 113
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4810b7c9f3530590800000000000000
+      internalID: -7709225804865988533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 84
+        width: 112
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be456560259101330800000000000000
+      internalID: 3679468735646029035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 113
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d62c84829e89a0800000000000000
+      internalID: -6228880136622122984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 29
+        width: 113
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f826a9c0e2699090800000000000000
+      internalID: -8027276143215892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 29
+        width: 113
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecbcb2abbba5e2c0800000000000000
+      internalID: -4402924238307279634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank-Fire_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 21
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812800e46f9d662b0800000000000000
+      internalID: -5591542235440053736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tank-Fire_0: -8226756988596823353
+      Tank-Fire_1: -99076426997043140
+      Tank-Fire_10: -7082667184860041778
+      Tank-Fire_11: -1333083998768231356
+      Tank-Fire_12: 6016234132665117993
+      Tank-Fire_13: -7709225804865988533
+      Tank-Fire_14: 3679468735646029035
+      Tank-Fire_15: -6228880136622122984
+      Tank-Fire_16: -8027276143215892238
+      Tank-Fire_17: -4402924238307279634
+      Tank-Fire_18: -5591542235440053736
+      Tank-Fire_2: 8798109961748434256
+      Tank-Fire_3: 8529573557317400586
+      Tank-Fire_4: -4453083807706004692
+      Tank-Fire_5: 876347112391738527
+      Tank-Fire_6: -6323353219965170051
+      Tank-Fire_7: -7026405829859720196
+      Tank-Fire_8: 8189088772624198532
+      Tank-Fire_9: 466910101549477868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

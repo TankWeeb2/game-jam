@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class playerCode : MonoBehaviour
 {
@@ -73,6 +74,7 @@ public class playerCode : MonoBehaviour
             {
                 Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
             }
+            SceneManager.LoadScene("Död");
             Destroy(gameObject);
         }
 
@@ -88,6 +90,7 @@ public class playerCode : MonoBehaviour
             {
                 Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
             }
+            SceneManager.LoadScene("Död");
             Destroy(gameObject);
         }
     }
