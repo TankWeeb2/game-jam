@@ -16,7 +16,7 @@ public class playerCode : MonoBehaviour
     KeyCode up = KeyCode.W;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     Rigidbody2D rigidbody;
-    bool downhill = true;
+    public bool downhill = true;
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
