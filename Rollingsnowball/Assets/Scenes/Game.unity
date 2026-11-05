@@ -120,7 +120,11 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &85116762
+=======
+--- !u!1 &87035468
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!1 &87035468
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -132,16 +136,22 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 85116763}
   - component: {fileID: 85116765}
   - component: {fileID: 85116764}
   m_Layer: 5
   m_Name: the bar
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   - component: {fileID: 87035469}
   - component: {fileID: 87035470}
   m_Layer: 0
   m_Name: rocks (2)
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,8 +159,13 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &85116763
 RectTransform:
+=======
+--- !u!4 &87035469
+Transform:
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!4 &87035469
 Transform:
@@ -159,6 +174,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 85116762}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -179,6 +195,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 87035468}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_GameObject: {fileID: 87035468}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_LocalPosition: {x: -0.283, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -187,13 +208,20 @@ MonoBehaviour:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &87035470
 SpriteRenderer:
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 85116762}
+=======
+  m_GameObject: {fileID: 87035468}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
   m_GameObject: {fileID: 87035468}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -237,6 +265,7 @@ SpriteRenderer:
   m_Sprite: {fileID: -7283605093292358059, guid: 7dcfb829ce67b2647880e2aafd833eac, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -256,6 +285,8 @@ SpriteRenderer:
 --- !u!222 &85116765
 CanvasRenderer:
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -267,15 +298,21 @@ CanvasRenderer:
   m_SpriteSortPoint: 0
 --- !u!1 &194053128
 GameObject:
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 85116762}
   m_CullTransparentMesh: 1
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   serializedVersion: 6
   m_Component:
   - component: {fileID: 194053129}
@@ -357,6 +394,9 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &218319108
 GameObject:
@@ -480,7 +520,10 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &240531936
 GameObject:
   m_ObjectHideFlags: 0
@@ -1004,7 +1047,10 @@ CanvasRenderer:
   m_GameObject: {fileID: 284704834}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &306335890
 GameObject:
   m_ObjectHideFlags: 0
@@ -1257,7 +1303,10 @@ CanvasRenderer:
   m_GameObject: {fileID: 357004188}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &479516772
 GameObject:
   m_ObjectHideFlags: 0
@@ -1526,6 +1575,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &519420028
 GameObject:
@@ -1855,12 +1907,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   Health: 0
   MaxHealth: 0
   Width: 52
   Height: 92
   healthBar: {fileID: 529898077}
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &530640981
 GameObject:
   m_ObjectHideFlags: 0
@@ -1960,6 +2015,9 @@ Transform:
   - {fileID: 1809704026}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &541427068
 GameObject:
@@ -2287,7 +2345,11 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &638406901
+=======
+--- !u!1 &783890070
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!1 &783890070
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2299,15 +2361,21 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 638406902}
   - component: {fileID: 638406903}
   m_Layer: 0
   m_Name: rock_1_0 (2)
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   - component: {fileID: 783890071}
   - component: {fileID: 783890072}
   m_Layer: 0
   m_Name: rocks (3)
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2315,7 +2383,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &638406902
+=======
+--- !u!4 &783890071
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!4 &783890071
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2325,8 +2397,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 638406901}
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_GameObject: {fileID: 783890070}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   serializedVersion: 2
@@ -2345,8 +2420,11 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 638406901}
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_GameObject: {fileID: 783890070}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_Enabled: 1
@@ -2398,7 +2476,11 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &662004413
+=======
+--- !u!1 &798576364
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!1 &798576364
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2410,15 +2492,21 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 662004414}
   - component: {fileID: 662004415}
   m_Layer: 0
   m_Name: rock_2_0
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   - component: {fileID: 798576365}
   - component: {fileID: 798576366}
   m_Layer: 0
   m_Name: rocks (3)
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2426,7 +2514,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &662004414
+=======
+--- !u!4 &798576365
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!4 &798576365
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2435,6 +2527,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 662004413}
   serializedVersion: 2
@@ -2458,13 +2551,29 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &798576366
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
+  m_GameObject: {fileID: 798576364}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.273, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1809704026}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &798576366
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 662004413}
+=======
+  m_GameObject: {fileID: 798576364}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
   m_GameObject: {fileID: 798576364}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2506,7 +2615,11 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Sprite: {fileID: 117336661567690536, guid: 75ac917cfa19a474b94917713a1e0687, type: 3}
+=======
+  m_Sprite: {fileID: -7283605093292358059, guid: 7dcfb829ce67b2647880e2aafd833eac, type: 3}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
   m_Sprite: {fileID: -7283605093292358059, guid: 7dcfb829ce67b2647880e2aafd833eac, type: 3}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2515,8 +2628,11 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Size: {x: 0.27, y: 0.27}
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_Size: {x: 0.3, y: 0.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
@@ -2779,6 +2895,9 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.3, y: 0.25}
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
@@ -2873,7 +2992,11 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1009630534
+=======
+--- !u!1 &1063431685
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!1 &1063431685
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -2885,16 +3008,22 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1009630535}
   - component: {fileID: 1009630537}
   - component: {fileID: 1009630536}
   m_Layer: 5
   m_Name: Pro bar
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   - component: {fileID: 1063431686}
   - component: {fileID: 1063431687}
   m_Layer: 0
   m_Name: rock_2_0
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2902,8 +3031,13 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!224 &1009630535
 RectTransform:
+=======
+--- !u!4 &1063431686
+Transform:
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 --- !u!4 &1063431686
 Transform:
@@ -2912,6 +3046,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1009630534}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
@@ -3023,6 +3158,100 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1106314832}
+=======
+  m_GameObject: {fileID: 1063431685}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.13135539, y: 0.011001587, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1809704026}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1063431687
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1106314832}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
+  m_GameObject: {fileID: 1063431685}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 117336661567690536, guid: 75ac917cfa19a474b94917713a1e0687, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.27, y: 0.27}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1106314832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1106314833}
+  - component: {fileID: 1106314834}
+  m_Layer: 0
+  m_Name: rock_2_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1106314833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106314832}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.13135539, y: 0.011001587, z: 0}
@@ -3047,6 +3276,7 @@ SpriteRenderer:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3066,6 +3296,8 @@ SpriteRenderer:
 --- !u!222 &1009630537
 CanvasRenderer:
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3077,11 +3309,15 @@ CanvasRenderer:
   m_SpriteSortPoint: 0
 --- !u!1 &1143166823
 GameObject:
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1009630534}
   m_CullTransparentMesh: 1
@@ -3091,6 +3327,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   serializedVersion: 6
@@ -4228,7 +4466,10 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &1465715974
 GameObject:
   m_ObjectHideFlags: 0
@@ -4316,6 +4557,9 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &1472845521
 GameObject:
@@ -4751,7 +4995,10 @@ RectTransform:
   - {fileID: 1813867190}
   - {fileID: 357004189}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1009630535}
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
   m_Father: {fileID: 0}
@@ -4762,7 +5009,10 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &1675214643
 GameObject:
   m_ObjectHideFlags: 0
@@ -5097,7 +5347,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0.12, y: -12.33, z: 0}
+=======
+  m_LocalPosition: {x: 0, y: -10.4, z: 0}
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
 =======
   m_LocalPosition: {x: 0, y: -10.4, z: 0}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
@@ -5683,6 +5937,9 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
+=======
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
 --- !u!1 &1813867189
 GameObject:
@@ -6169,6 +6426,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1908444610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1908444611}
+  - component: {fileID: 1908444612}
+  m_Layer: 0
+  m_Name: rocks (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1908444611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1908444610}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1809704026}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1908444612
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1908444610}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -7283605093292358059, guid: 7dcfb829ce67b2647880e2aafd833eac, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.3, y: 0.25}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1938966154
 GameObject:
   m_ObjectHideFlags: 0
@@ -6289,8 +6633,11 @@ Transform:
   - {fileID: 1398870941}
   - {fileID: 1996209632}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 1747711781}
 =======
+=======
+>>>>>>> parent of 82ee1cb (Revert "tweaks")
   - {fileID: 194053129}
   m_Father: {fileID: 0}
 >>>>>>> parent of 82ee1cb (Revert "tweaks")
