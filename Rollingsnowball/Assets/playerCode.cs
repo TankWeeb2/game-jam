@@ -54,11 +54,6 @@ public class playerCode : MonoBehaviour
         {
             print("ow");
             health += -1;
-            print("health: " + health);
-
-        }
-        if (health < 0.1)
-        {
             for (int i = 0; i < 7; i++)
             {
                 Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
