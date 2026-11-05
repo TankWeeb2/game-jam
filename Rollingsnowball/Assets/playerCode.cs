@@ -19,6 +19,7 @@ public class playerCode : MonoBehaviour
     {
         rigidbody = GetComponent<Rigidbody2D>();
     }
+    new public GameObject flesh;
 
     // Update is called once per frame
     void Update()
@@ -53,8 +54,11 @@ public class playerCode : MonoBehaviour
         {
             print("ow");
             health += -1;
-            print("health: " + health);
-
+            for (int i = 0; i < 7; i++)
+            {
+                Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
+            }
+            Destroy(gameObject);
         }
 
     }
