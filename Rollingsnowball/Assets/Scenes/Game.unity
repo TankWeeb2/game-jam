@@ -1590,6 +1590,7 @@ MonoBehaviour:
   left: 97
   right: 100
   up: 119
+  flesh: {fileID: 0}
 --- !u!95 &1984317345
 Animator:
   serializedVersion: 7
