@@ -5246,6 +5246,7 @@ MonoBehaviour:
   sadtree: {fileID: 0}
   person: {fileID: 8182525201815602688, guid: 2dc507fcab101f3409a18fda3690cc74, type: 3}
   targetRigidbody: {fileID: 1984317341}
+  playerCode: {fileID: 0}
 --- !u!1 &1743030287
 GameObject:
   m_ObjectHideFlags: 0
@@ -5256,6 +5257,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1743030288}
   - component: {fileID: 1743030289}
+  - component: {fileID: 1743030290}
   m_Layer: 0
   m_Name: Varning
   m_TagString: Untagged
@@ -5333,6 +5335,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1743030290
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1743030287}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cccf59e1e294b6144bf0aef5c1ab2b63, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1754652580
 GameObject:
   m_ObjectHideFlags: 0
@@ -6729,6 +6753,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 623ac589dd3979b4794b258738118f5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  alive: 1
   score: 0
   speed: 4
   down: 115
