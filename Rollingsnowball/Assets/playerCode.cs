@@ -4,6 +4,9 @@ using UnityEngine.SceneManagement;
 public class playerCode : MonoBehaviour
 {
     int health = 4;
+
+    public bool alive = true;
+    double loseTimer = 0;
     public int score = 0;
     [SerializeField]
     int speed = 4; //the speed of the snowball
@@ -74,7 +77,7 @@ public class playerCode : MonoBehaviour
             {
                 Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
             }
-            SceneManager.LoadScene("Död");
+            alive = false;
             Destroy(gameObject);
         }
 
@@ -90,7 +93,7 @@ public class playerCode : MonoBehaviour
             {
                 Instantiate(flesh, new Vector3(transform.position.x, transform.position.y, transform.position.z), flesh.transform.rotation);
             }
-            SceneManager.LoadScene("Död");
+            alive = false;
             Destroy(gameObject);
         }
     }

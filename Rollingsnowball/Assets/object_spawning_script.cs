@@ -1,5 +1,6 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 
 public class object_spawning_script : MonoBehaviour
@@ -9,19 +10,33 @@ public class object_spawning_script : MonoBehaviour
     new public GameObject sadtree;
     new public GameObject person;
     double timer = 0;
+    double loseTimer = 0;
     float ySpeed = 1;
     float playerY;
     float oldPlayerY;
     [SerializeField] public Rigidbody2D targetRigidbody;
+    public playerCode playerCode;
     void Start()
     {
         oldPlayerY = player.transform.position.y;
+
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        if (player)
+        {
+            loseTimer = 0;
+        }
+        else
+        {
+            loseTimer += Time.deltaTime;
+            if (loseTimer > 2.5f)
+            {
+                SceneManager.LoadScene("Död");
+            }
+        }
     }
     private void FixedUpdate()
     {
@@ -39,7 +54,7 @@ public class object_spawning_script : MonoBehaviour
             timer = 0;
             Instantiate(tree, new Vector3(Random.Range(-10, 10), transform.position.y, transform.position.z), tree.transform.rotation);
             Instantiate(person, new Vector3(Random.Range(-6, 6), transform.position.y + 2, transform.position.z), tree.transform.rotation);
-            if (transform.position.y < -60);
+            if (transform.position.y < -60)
             {
                 Instantiate(tree, new Vector3(Random.Range(-10, 10), transform.position.y, transform.position.z), tree.transform.rotation);
             }
