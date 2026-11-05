@@ -16,6 +16,7 @@ public class playerCode : MonoBehaviour
     KeyCode up = KeyCode.W;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     Rigidbody2D rigidbody;
+    bool downhill = true;
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -25,8 +26,17 @@ public class playerCode : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        print(downhill);
         //resets velocity
-        rigidbody.linearVelocityY = -6;
+        if (downhill == true)
+        {
+            rigidbody.linearVelocityY = -6;
+        }
+        else
+        {
+            rigidbody.linearVelocityY = 0;
+        }
+
         rigidbody.linearVelocityX = 0;
 
         if (Input.GetKey(down))
@@ -46,6 +56,10 @@ public class playerCode : MonoBehaviour
             rigidbody.linearVelocityX += 5;
         }
         //nice
+        if (transform.position.y < -401)
+        {
+            downhill = false;
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
