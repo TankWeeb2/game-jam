@@ -1144,8 +1144,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -317, y: 0.0000019073}
-  m_SizeDelta: {x: 80, y: 400}
+  m_AnchoredPosition: {x: -307, y: 3.5}
+  m_SizeDelta: {x: 80, y: 393}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &357004190
 MonoBehaviour:
@@ -5246,6 +5246,7 @@ MonoBehaviour:
   sadtree: {fileID: 0}
   person: {fileID: 8182525201815602688, guid: 2dc507fcab101f3409a18fda3690cc74, type: 3}
   targetRigidbody: {fileID: 1984317341}
+  playerCode: {fileID: 0}
 --- !u!1 &1743030287
 GameObject:
   m_ObjectHideFlags: 0
@@ -6729,6 +6730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 623ac589dd3979b4794b258738118f5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  alive: 1
   score: 0
   speed: 4
   down: 115
@@ -7431,8 +7433,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 367, y: 206.5}
-  m_SizeDelta: {x: 734, y: 413}
+  m_AnchoredPosition: {x: 364.33, y: 200}
+  m_SizeDelta: {x: 711.33, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2115222453
 GameObject:
