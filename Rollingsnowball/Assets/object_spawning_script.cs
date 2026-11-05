@@ -39,6 +39,10 @@ public class object_spawning_script : MonoBehaviour
             timer = 0;
             Instantiate(tree, new Vector3(Random.Range(-10, 10), transform.position.y, transform.position.z), tree.transform.rotation);
             Instantiate(person, new Vector3(Random.Range(-6, 6), transform.position.y + 2, transform.position.z), tree.transform.rotation);
+            if (transform.position.y < -60);
+            {
+                Instantiate(tree, new Vector3(Random.Range(-10, 10), transform.position.y, transform.position.z), tree.transform.rotation);
+            }
         }
 
         oldPlayerY = player.transform.position.y;
