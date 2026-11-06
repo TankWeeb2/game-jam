@@ -14,6 +14,7 @@ public class TankScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //theo: moves when downhill is false
         if (playerCode.downhill == false)
         {
             transform.position += new Vector3(0, 3.01f * Time.deltaTime, 0);
