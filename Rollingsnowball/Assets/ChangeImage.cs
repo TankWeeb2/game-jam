@@ -40,5 +40,5 @@ public class ChangeImage : MonoBehaviour
         }
         transform.position = new Vector3(0, 0, 0);
 
-    }
+    }//makes the texas image aperar when u press a button
 }
