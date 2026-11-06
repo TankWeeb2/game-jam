@@ -12,9 +12,9 @@ public class Menu : MonoBehaviour
     //starts the game
     public void OnQuitButton()
     {
-        Application.Quit();
+       
     }
-    //quits the game
+    //quits the game(not)
     public void OnCreditsButton()
     {
         SceneManager.LoadScene("Credits");
