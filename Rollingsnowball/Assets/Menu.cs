@@ -24,4 +24,4 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
-}
+}//loads difrent sceans on button presses-victor j
