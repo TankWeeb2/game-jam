@@ -59,7 +59,7 @@ public class playerCode : MonoBehaviour
         {
             rigidbody.linearVelocityX += 5;
         }
-        //nice
+        //theo: nice
         if (transform.position.y < -401)
         {
             downhill = false;
@@ -67,10 +67,10 @@ public class playerCode : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        print("something");
 
         if (collision.transform.name == "death")
         {
+            //theo: death
             print("ow");
             health += -1;
             for (int i = 0; i < 7; i++)
@@ -84,7 +84,7 @@ public class playerCode : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-
+        //theo: death to tank
         if (collision.collider.CompareTag("tank"))
         {
             print("ow");
