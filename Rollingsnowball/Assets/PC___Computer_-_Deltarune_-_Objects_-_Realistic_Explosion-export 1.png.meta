@@ -1,70 +1,70 @@
 fileFormatVersion: 2
-guid: c61a30f3ff72e2e419f92982174361ae
+guid: fe98f24686a8c1d4aaa0288eb5c3aadf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3900522207485277596
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_0
+      213: -3417100183760072235
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_0
   - first:
-      213: -1744495187560283138
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_1
+      213: 4028851325056538277
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_1
   - first:
-      213: -1128045470839556046
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_2
+      213: -1889900213498804089
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_2
   - first:
-      213: -6479218772761445051
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_3
+      213: 2526963019812581430
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_3
   - first:
-      213: 7051789458926176318
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_4
+      213: -8075939984096320507
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_4
   - first:
-      213: -8832210715430352943
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_5
+      213: 1685438529555062894
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_5
   - first:
-      213: -9195940326541790347
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_6
+      213: -6670341317479912210
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_6
   - first:
-      213: 2999833974467601831
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_7
+      213: 7815466914991712715
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_7
   - first:
-      213: -7441520476265914652
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_8
+      213: -2624359080432974210
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_8
   - first:
-      213: 2516700783108912536
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_9
+      213: -9073779295335432601
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_9
   - first:
-      213: 4744814072862359136
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_10
+      213: -392369975698004933
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_10
   - first:
-      213: -1644998197026545055
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_11
+      213: -5795531917397921004
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_11
   - first:
-      213: -2464365526995821507
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_12
+      213: 8937791067449324350
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_12
   - first:
-      213: -6901964709217120521
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_13
+      213: 1356155956476126741
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_13
   - first:
-      213: -8504401114845728030
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_14
+      213: -4831603668914933034
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_14
   - first:
-      213: -5134516675621442149
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_15
+      213: -2075198883239577874
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_15
   - first:
-      213: -2629248667594075754
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_16
+      213: 8670540305561670095
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_16
   - first:
-      213: -2853386982867799683
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_17
+      213: 8226628777729540717
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_17
   - first:
-      213: -6620620666231780416
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_18
+      213: 7191371436387808267
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_18
   - first:
-      213: -2609345984567511443
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_19
+      213: -149068755499965549
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_19
   - first:
-      213: -1866021773643827946
-    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_20
+      213: 2840348340807525284
+    second: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_20
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -111,7 +111,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -160,7 +160,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_0
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_0
       rect:
         serializedVersion: 2
         x: 223
@@ -175,14 +175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c95bea72840712630800000000000000
-      internalID: 3900522207485277596
+      spriteID: 5d11f09cc750490d0800000000000000
+      internalID: -3417100183760072235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_1
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_1
       rect:
         serializedVersion: 2
         x: 295
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef34711aede4ac7e0800000000000000
-      internalID: -1744495187560283138
+      spriteID: 5a65bd23fea59e730800000000000000
+      internalID: 4028851325056538277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_2
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_2
       rect:
         serializedVersion: 2
         x: 324
@@ -219,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 238be14fe906850f0800000000000000
-      internalID: -1128045470839556046
+      spriteID: 7880879d4c9b5c5e0800000000000000
+      internalID: -1889900213498804089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_3
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_3
       rect:
         serializedVersion: 2
         x: 368
@@ -241,14 +241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54df283cad03516a0800000000000000
-      internalID: -6479218772761445051
+      spriteID: 6303a746a73911320800000000000000
+      internalID: 2526963019812581430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_4
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_4
       rect:
         serializedVersion: 2
         x: 29
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e388322a62dfcd160800000000000000
-      internalID: 7051789458926176318
+      spriteID: 504a0946f5f7cef80800000000000000
+      internalID: -8075939984096320507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_5
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_5
       rect:
         serializedVersion: 2
         x: 84
@@ -285,14 +285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d7006d362fad6580800000000000000
-      internalID: -8832210715430352943
+      spriteID: e60e2eca961e36710800000000000000
+      internalID: 1685438529555062894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_6
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_6
       rect:
         serializedVersion: 2
         x: 154
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57379c4cef4716080800000000000000
-      internalID: -9195940326541790347
+      spriteID: eecaff8a9ef2e63a0800000000000000
+      internalID: -6670341317479912210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_7
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_7
       rect:
         serializedVersion: 2
         x: 8
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a52a412b1d81a920800000000000000
-      internalID: 2999833974467601831
+      spriteID: bc926e540cd167c60800000000000000
+      internalID: 7815466914991712715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_8
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_8
       rect:
         serializedVersion: 2
         x: 70
@@ -351,14 +351,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4eedf5fbd886ab890800000000000000
-      internalID: -7441520476265914652
+      spriteID: e76c8bf1257649bd0800000000000000
+      internalID: -2624359080432974210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_9
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_9
       rect:
         serializedVersion: 2
         x: 103
@@ -373,14 +373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8957727370e1de220800000000000000
-      internalID: 2516700783108912536
+      spriteID: 76ebc3b4ec5731280800000000000000
+      internalID: -9073779295335432601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_10
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_10
       rect:
         serializedVersion: 2
         x: 150
@@ -395,14 +395,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06e3c3a9247f8d140800000000000000
-      internalID: 4744814072862359136
+      spriteID: b34edf106950e8af0800000000000000
+      internalID: -392369975698004933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_11
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_11
       rect:
         serializedVersion: 2
         x: 180
@@ -417,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 162231afadacb29e0800000000000000
-      internalID: -1644998197026545055
+      spriteID: 413fe0b5d62229fa0800000000000000
+      internalID: -5795531917397921004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_12
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_12
       rect:
         serializedVersion: 2
         x: 222
@@ -439,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3c12b62c90dccdd0800000000000000
-      internalID: -2464365526995821507
+      spriteID: e33f9f31f99690c70800000000000000
+      internalID: 8937791067449324350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_13
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_13
       rect:
         serializedVersion: 2
         x: 295
@@ -461,14 +461,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fec4d64aab4730a0800000000000000
-      internalID: -6901964709217120521
+      spriteID: 5162acd38a802d210800000000000000
+      internalID: 1356155956476126741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_14
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_14
       rect:
         serializedVersion: 2
         x: 367
@@ -483,14 +483,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e23f2a8e3c4af980800000000000000
-      internalID: -8504401114845728030
+      spriteID: 6d2f9d2ef02b2fcb0800000000000000
+      internalID: -4831603668914933034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_15
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_15
       rect:
         serializedVersion: 2
         x: 7
@@ -505,14 +505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9da34099488eb8b0800000000000000
-      internalID: -5134516675621442149
+      spriteID: ee6b73e4c996333e0800000000000000
+      internalID: -2075198883239577874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_16
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_16
       rect:
         serializedVersion: 2
         x: 80
@@ -527,14 +527,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 691d2e56448038bd0800000000000000
-      internalID: -2629248667594075754
+      spriteID: fc1d5bb2872f35870800000000000000
+      internalID: 8670540305561670095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_17
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_17
       rect:
         serializedVersion: 2
         x: 156
@@ -549,14 +549,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d71f07f28abb668d0800000000000000
-      internalID: -2853386982867799683
+      spriteID: d62439b694bda2270800000000000000
+      internalID: 8226628777729540717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_18
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_18
       rect:
         serializedVersion: 2
         x: 170
@@ -571,14 +571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cb05a4e494de14a0800000000000000
-      internalID: -6620620666231780416
+      spriteID: b0439c94832ecc360800000000000000
+      internalID: 7191371436387808267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_19
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_19
       rect:
         serializedVersion: 2
         x: 227
@@ -593,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d66f2c5e6adb9cbd0800000000000000
-      internalID: -2609345984567511443
+      spriteID: 393a055b1c66eedf0800000000000000
+      internalID: -149068755499965549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_20
+      name: PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_20
       rect:
         serializedVersion: 2
         x: 157
@@ -615,8 +615,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 615b0de551f8a16e0800000000000000
-      internalID: -1866021773643827946
+      spriteID: 4a3e33464c1fa6720800000000000000
+      internalID: 2840348340807525284
       vertices: []
       indices: 
       edges: []
@@ -635,27 +635,27 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_0: 3900522207485277596
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_1: -1744495187560283138
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_10: 4744814072862359136
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_11: -1644998197026545055
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_12: -2464365526995821507
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_13: -6901964709217120521
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_14: -8504401114845728030
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_15: -5134516675621442149
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_16: -2629248667594075754
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_17: -2853386982867799683
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_18: -6620620666231780416
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_19: -2609345984567511443
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_2: -1128045470839556046
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_20: -1866021773643827946
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_3: -6479218772761445051
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_4: 7051789458926176318
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_5: -8832210715430352943
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_6: -9195940326541790347
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_7: 2999833974467601831
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_8: -7441520476265914652
-      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export_9: 2516700783108912536
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_0: -3417100183760072235
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_1: 4028851325056538277
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_10: -392369975698004933
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_11: -5795531917397921004
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_12: 8937791067449324350
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_13: 1356155956476126741
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_14: -4831603668914933034
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_15: -2075198883239577874
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_16: 8670540305561670095
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_17: 8226628777729540717
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_18: 7191371436387808267
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_19: -149068755499965549
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_2: -1889900213498804089
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_20: 2840348340807525284
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_3: 2526963019812581430
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_4: -8075939984096320507
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_5: 1685438529555062894
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_6: -6670341317479912210
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_7: 7815466914991712715
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_8: -2624359080432974210
+      PC___Computer_-_Deltarune_-_Objects_-_Realistic_Explosion-export 1_9: -9073779295335432601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
