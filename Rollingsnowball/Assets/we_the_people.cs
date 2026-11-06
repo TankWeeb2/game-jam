@@ -19,13 +19,9 @@ public class we_the_people : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
-    {
-        
-
-    }
     private void Update()
     {
+        //theo: moves randomly every 0.5 seconds
         Timer += Time.deltaTime;
         if (Timer > 0.5)
         {
@@ -39,6 +35,7 @@ public class we_the_people : MonoBehaviour
 
         if (collision.collider.CompareTag("snowball"))
         {
+            //theo: dying when hit by snowball
             playerCode.score += 1;
             print("you hit a texas! score: " + playerCode.score);
             particleSystemRef.Play();
