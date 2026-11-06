@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
 public class TankScript : MonoBehaviour
@@ -20,5 +21,14 @@ public class TankScript : MonoBehaviour
             transform.position += new Vector3(0, 3.01f * Time.deltaTime, 0);
         }
 
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("god"))
+        {
+
+            SceneManager.LoadScene("Victory");
+
+        }
     }
 }
